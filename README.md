@@ -90,6 +90,8 @@ Caveats and Limitations
 
 Results
 
-Visualizations generated after the prediction process allow you to see how well the model predicts the balloon's trajectory. Example plots compare the actual and predicted paths, showing how close the predictions are to the actual balloon movement over time.
+Visualizations generated after the prediction process allow you to see how well the model predicts the balloon's trajectory.
+![plots](https://github.com/user-attachments/assets/76798ef8-5192-4435-8ee0-c331eebd0c16)
+ 
 
 Feel free to adjust the hyperparameters and experiment with different models (e.g., Gradient Boosting, Neural Networks) for improved accuracy in your predictions.
